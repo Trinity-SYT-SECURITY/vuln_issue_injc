@@ -6,6 +6,7 @@
 + exploit : <script>alert(1)</script>
 + cve id: CVE-2023-37150
 + CVSS v3.1: `AV:L/AC:L/PR:H/UI:R/S:U/C:L/I:L/A:L/E:F/RL:W/RC:R/CR:L/IR:L/AR:L/MAV:L/MAC:L/MPR:H/MUI:R/MS:U/MC:L/MI:L/MA:L`
++ https://nvd.nist.gov/vuln/detail/CVE-2023-37150
 
 ![image](https://github.com/Trinity-SYT-SECURITY/XSS_vuln_issue/assets/96654161/63831a13-4e9b-40c8-8e82-21c8496afe92)
 
