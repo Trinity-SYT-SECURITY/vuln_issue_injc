@@ -1,3 +1,4 @@
+
 # Online Security Guard Hiring System
 + version 1.0
 + vendors : [Online Security Guards Hiring System using PHP and MySQL](https://phpgurukul.com/online-security-guards-hiring-system-using-php-and-mysql/)
@@ -32,4 +33,13 @@ payload -> ' UNION SELECT NULL,NULL,NULL--
 + POC
   
 https://github.com/Trinity-SYT-SECURITY/arbitrary-file-upload-RCE/assets/96654161/667cad95-bf9d-4636-9d7b-2145e1a68963
+
++ File Upload Vulnerability
+
+
+https://github.com/Trinity-SYT-SECURITY/XSS_vuln_issue/assets/96654161/5c58eec7-7567-43d8-be6b-dce327edec9b
+
+
+
+
 
