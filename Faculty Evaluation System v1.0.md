@@ -9,9 +9,9 @@
 
 ![image](https://github.com/Trinity-SYT-SECURITY/arbitrary-file-upload-RCE/assets/96654161/185ff8b6-5953-4219-9ef9-ab9f655ec5f3)
 
-
+<!--
 First, create a simple PHP script to trigger the vulnerability. The following PHP code will utilize the GET parameter and execute it through the eval() function:
-
+ 
 **The $_GET[""] is passed to the eval() function, which means that the string will be interpreted as valid PHP code and executed. It allows the attacker to execute arbitrary PHP code.**
 
 ```php
@@ -23,7 +23,7 @@ When you see this page, you will know that the program has executed successfully
 
 ![image](https://github.com/Trinity-SYT-SECURITY/arbitrary-file-upload-RCE/assets/96654161/7dbac24e-7e55-4050-8014-0b1ab115f15c)
 
-+ echo shell_exec('whoami');
++ echo shell_exec('whoami');  -->
 
 ![](https://hackmd.io/_uploads/B1KnDvgw2.png)
 
