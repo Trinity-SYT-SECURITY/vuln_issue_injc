@@ -9,6 +9,7 @@
 + https://nvd.nist.gov/vuln/detail/CVE-2023-37153
 + https://www.redpacketsecurity.com/kodexplorer-cross-site-scripting-cve-2023-37153/
 + https://vuldb.com/zh/?id.233443
+
 The user can click the Light App on the desktop, and there is an option to create app. After clicking, you will see the Description box, fill in the XSS syntax to trigger
 
 ![image](https://github.com/Trinity-SYT-SECURITY/XSS_vuln_issue/assets/96654161/74fb387a-3486-42fd-9fd6-244126fd0b6f)
