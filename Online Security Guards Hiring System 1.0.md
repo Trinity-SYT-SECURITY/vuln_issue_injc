@@ -3,6 +3,7 @@
 + version 1.0
 + vendors : [Online Security Guards Hiring System using PHP and MySQL](https://phpgurukul.com/online-security-guards-hiring-system-using-php-and-mysql/)
 + Software Link: https://phpgurukul.com/projects/Online-Security-Guard-Hiring-System_PHP.zip
++ EXPLOIT-AUTHOR : Noflag(CHT Security)
 + Tested on: Windows 10 + XAMPP
 + Credential for admin panel :
   + Username: admin
