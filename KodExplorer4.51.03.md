@@ -4,7 +4,7 @@
 + version : 4.51.03
 + vuln : XSS
 + cve id: CVE-2023-37153
-+ CVSS v3.1 `CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:U/C :N/I:L/A:N/E:X/RL:X/RC:R`
++ CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N
 + CVSS3 6.1
 + https://nvd.nist.gov/vuln/detail/CVE-2023-37153
 + https://www.redpacketsecurity.com/kodexplorer-cross-site-scripting-cve-2023-37153/
