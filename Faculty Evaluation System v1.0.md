@@ -7,6 +7,8 @@
 + XSS vuln
 + CVE ID: CVE-2023-36118
 + CVSS v3.1 `AV:L/AC:L/PR:H/UI:R/S:U/C:L/I:L/A:L/E:F/RL:W/RC:R/CR:L/IR:L/AR:L/MAV:L/MAC:L/MPR:H/MUI:R/MS:U/MC:L/MI:L/MA:L`
++ https://www.chtsecurity.com/news/4ffbe017-70e1-4789-bfe6-4d6fb0d1a0b7
++ https://www.chtsecurity.com/news/5282e0af-7c45-43b0-9869-9becee7d6d70
 
 ![image](https://github.com/Trinity-SYT-SECURITY/arbitrary-file-upload-RCE/assets/96654161/185ff8b6-5953-4219-9ef9-ab9f655ec5f3)
 
