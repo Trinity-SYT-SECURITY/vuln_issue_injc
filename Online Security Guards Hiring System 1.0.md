@@ -8,7 +8,7 @@
 + Credential for admin panel :
   + Username: admin
   + Password: Test@123
-+ CVE ID: CVE-2023-36119
++ CVE ID: 
 + CVSS 3.1: `AV:L/AC:H/PR:H/UI:R/S:C/C:H/I:H/A:L/E:F/RL:W/RC:R/CR:H/IR:H/AR:M/MAV:L/MAC:H/MPR:H/MUI:R/MS:C/MC:H/MI:H/MA:L`
 ![image](https://github.com/Trinity-SYT-SECURITY/XSS_vuln_issue/assets/96654161/89238c90-0348-49fc-92ab-d25c2d02a73d)
 
