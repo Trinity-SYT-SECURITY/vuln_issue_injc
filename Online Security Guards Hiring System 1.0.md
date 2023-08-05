@@ -8,9 +8,11 @@
 + Credential for admin panel :
   + Username: admin
   + Password: Test@123
-+ CVE ID: 
++ CVE ID: CVE-2023-36119()、CVE-2023-39551、CVE-2023-39552
 + CVSS 3.1: `AV:L/AC:H/PR:H/UI:R/S:C/C:H/I:H/A:L/E:F/RL:W/RC:R/CR:H/IR:H/AR:M/MAV:L/MAC:H/MPR:H/MUI:R/MS:C/MC:H/MI:H/MA:L`
-![image](https://github.com/Trinity-SYT-SECURITY/XSS_vuln_issue/assets/96654161/89238c90-0348-49fc-92ab-d25c2d02a73d)
++ https://nvd.nist.gov/vuln/detail/CVE-2023-36119 -> CVSS 9.8 Unrestricted Upload of File with Dangerous Type
++ https://nvd.nist.gov/vuln/detail/CVE-2023-39551 -> CVSS 5.3 SQL Injection
++ https://www.tenable.com/cve/CVE-2023-39552 -> CVSS 3.4 Cross-Site Scripting (XSS)
 
 **Affecr URL**
 + XSS
