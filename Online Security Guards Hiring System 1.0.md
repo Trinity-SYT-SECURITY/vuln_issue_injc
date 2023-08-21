@@ -12,6 +12,8 @@
 + https://nvd.nist.gov/vuln/detail/CVE-2023-36119 -> CVSS 9.8 Unrestricted Upload of File with Dangerous Type
 + https://nvd.nist.gov/vuln/detail/CVE-2023-39551 -> CVSS 5.3 SQL Injection
 + https://nvd.nist.gov/vuln/detail/CVE-2023-39552 -> CVSS 3.4 Cross-Site Scripting (XSS)
++ ref: https://www.chtsecurity.com/news/0dbe8e1d-0a6c-4604-9cf1-778ddc86a8c1
+  + https://www.chtsecurity.com/news/285b9375-ba65-4f61-a02a-a575337dc86c
 
 **Affecr URL**
 + XSS
