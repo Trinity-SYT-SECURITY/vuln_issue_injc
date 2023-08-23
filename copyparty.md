@@ -18,9 +18,3 @@ POC :
 https://github.com/Trinity-SYT-SECURITY/XSS_vuln_issue/assets/96654161/568dc4df-ab68-4d58-bb00-b9b515a830da
 
 
-<script>
-const qs = new URLSearchParams(location.search);
-if (qs.get("content")?.length > 0) {
-    document.body.innerHTML = marked.parse(DOMPurify.sanitize(qs.get("content")));
-}
-</script>
