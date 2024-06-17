@@ -6,9 +6,22 @@ can exec comm
 ![image](https://github.com/Trinity-SYT-SECURITY/vuln_issue_injc/assets/96654161/d4edd296-d097-45c1-9ad1-d522867eda1b)
 
 ----
-here defined which command can use
+### Summary
+SSTI:
+found that SSTI payload can run in the application. Although most strings cannot be recognized in the application, they can be injected through SSTI attack syntax.
 
-https://github.com/lcn2/calc/blob/7f72908b9502cbc2bcee483278580154ad88e62f/help/unexpected#L355
+RCE:
+Arbitrary commands can be executed through the application. This should not be a computer function.
+
+### Details
+
+Users can use system() to perform operations executed by arbitrary instructions. If the application is intended to be a calculator
+, then such a function should not exist, and the user should check whether the input is a reasonable calculation formula.
+
+### PoC
+
+----
++ SSTI? 
 
 can made it broken `{"`
 
@@ -38,14 +51,24 @@ String
 
 ![image](https://github.com/Trinity-SYT-SECURITY/vuln_issue_injc/assets/96654161/57b67fc1-ca07-45ca-a166-278e108cb3f5)
 
-Target
+------
 
-+ https://unlicense.org
-+ http://isthe.com/chongo/tech/comp/calc/calc-author.html
-+ https://github.com/lcn2/calc
++ RCE
 
-version
+![image](https://github.com/lcn2/calc/assets/96654161/9932cc87-25b1-4773-a548-43e49408ce5a)
+
+![image](https://github.com/lcn2/calc/assets/96654161/8a1bfc96-0e77-4919-a4c0-b2b5eaea15ad)
+
+This can also be combined with other methods to achieve the effect of local privilege escalation.
+
+![image](https://github.com/lcn2/calc/assets/96654161/124c28c7-d854-4191-9759-091aac5e7d8d)
+
+https://github.com/lcn2/calc/assets/96654161/443e6656-f9a6-43ef-aed5-7625369cff2b
+
+### Impact
 
 calc <=2.15.0.4
 
-![image](https://github.com/Trinity-SYT-SECURITY/vuln_issue_injc/assets/96654161/405be402-72b6-43b7-8cea-1a83bc8d4042)
+### Discoverer
++ CHT Security Noflag
++ Ball45
