@@ -5,6 +5,10 @@ can exec comm
 ![image](https://github.com/Trinity-SYT-SECURITY/vuln_issue_injc/assets/96654161/9765f8aa-838c-4fc1-a8a4-5d54e9d57c22)
 ![image](https://github.com/Trinity-SYT-SECURITY/vuln_issue_injc/assets/96654161/d4edd296-d097-45c1-9ad1-d522867eda1b)
 
+----
+here defined which command can use
+
+https://github.com/lcn2/calc/blob/7f72908b9502cbc2bcee483278580154ad88e62f/help/unexpected#L355
 
 can made it broken `{"`
 
