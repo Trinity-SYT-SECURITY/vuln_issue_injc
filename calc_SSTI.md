@@ -34,7 +34,7 @@ String
 
 ![image](https://github.com/Trinity-SYT-SECURITY/vuln_issue_injc/assets/96654161/57b67fc1-ca07-45ca-a166-278e108cb3f5)
 
-vendor
+Target
 
 + https://unlicense.org
 + http://isthe.com/chongo/tech/comp/calc/calc-author.html
