@@ -16,6 +16,9 @@ example:
 
 ![image](https://github.com/Trinity-SYT-SECURITY/vuln_issue_injc/assets/96654161/ca00057d-f52e-48af-9b64-364ae1ad4fce)
 
+![image](https://github.com/Trinity-SYT-SECURITY/vuln_issue_injc/assets/96654161/a2a6fdc0-ea7b-4876-bb8f-ebc75cc9be07)
+
+
 injection
 
 + {1+1}
@@ -36,3 +39,9 @@ vendor
 + https://unlicense.org
 + http://isthe.com/chongo/tech/comp/calc/calc-author.html
 + https://github.com/lcn2/calc
+
+version
+
+calc <=2.15.0.4
+
+![image](https://github.com/Trinity-SYT-SECURITY/vuln_issue_injc/assets/96654161/405be402-72b6-43b7-8cea-1a83bc8d4042)
